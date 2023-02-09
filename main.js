@@ -8,6 +8,12 @@ document.getElementById("push").addEventListener("click", function() {
   var sound = new Audio("https://cdn.freesound.org/previews/403/403015_5121236-lq.mp3");
   var deleteBtn = document.createElement("button");
   
+  //Error if no input
+if (!task) {
+alert("Please enter a task");
+return;
+}
+
   //Lets User choose color, write the task, and pick a due date
   newTask.style.fontSize = "18px";
   newTask.style.color = colorPick;
