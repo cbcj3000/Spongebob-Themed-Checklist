@@ -1,0 +1,99 @@
+:root {
+	--dark: #374151;
+	--darker: #1F2937;
+	--darkest: #111827;
+	--grey: #6B7280;
+	--pink: #EC4899;
+	--light pink: #F0C3CC
+	--purple: #B62CA6;
+	--dark purple: #77327B
+	--Light purple: #B66DCA
+	--light: #EEE;
+	--aqua: #0079FF
+}
+
+h1 {
+  color: #77327B;
+  font-family: "Open Sans", sans-serif;
+text-align: center
+}
+
+h2 {
+  color: #EC4899;
+  font-family: "Open Sans", sans-serif;
+   margin: 0;
+  padding: 20px 0;
+  text-align: center
+
+}
+
+h3 {
+  color: #77327B;
+  font-family: "Open Sans", sans-serif;
+   margin: 0;
+  padding: 20px 0;
+   text-align: left;
+
+}
+
+h5 {
+  color: #77327B;
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: #B66DCA;
+  font-family: "Open Sans", sans-serif;
+   
+}
+
+Sources{
+  color: #77327B;
+  text-align: left;
+}
+
+
+html {
+  background-color: #EC4899;
+  background-image: url("https://i.pinimg.com/474x/44/83/70/448370d8b3549c61e7110a365c71ebcb.jpg");
+}
+
+
+body {
+  width: 800px;
+  height: 150vh;
+  margin: 0 auto;
+  background-color: #F0C3CC;
+  padding: 0 20px 20px 20px;
+  border: 5px solid #00AAFF;
+  text-align: center
+}
+
+input{
+  color: #77329F;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 120%;
+}
+
+button{
+  color: #77329F;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 120%;
+}
+
+button.delete{
+  color: #77327B;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 120%;
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+sources {
+text-align: left
+}
