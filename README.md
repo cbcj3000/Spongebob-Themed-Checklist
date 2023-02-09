@@ -1,2 +1,2 @@
 # cbcj3000.github.io
-My first task using HTML, CSS,and Javascript.
+My first task using HTML, CSS,and Javascript. The task was to create a website To-Do list that allows the user to write a task, pick a due date,and to picka color. FRom there the user canadd it to their list of task. THey can choose to delete a task or cross(and uncross) it out. When they cross out a task a "notification" willplay. In this code I used a song instead of a notification mp3 in fear of picking a corrupt file online. So to make it a notification you would need to switch out the audio file.
