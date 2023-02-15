@@ -14,6 +14,7 @@
 
 h1 {
   color: #77327B;
+  top: 20;
   font-family: "Open Sans", sans-serif;
 text-align: center
 }
@@ -61,11 +62,9 @@ html {
 
 body {
   width: 800px;
-  height: 150vh;
   margin: 0 auto;
   background-color: #F0C3CC;
   padding: 0 20px 20px 20px;
-  border: 5px solid #00AAFF;
   text-align: center
 }
 
@@ -81,6 +80,7 @@ button{
   font-family: "Open Sans", sans-serif;
   text-align: center;
   font-size: 120%;
+  border-radius: 25px;
 }
 
 button.delete{
@@ -88,6 +88,7 @@ button.delete{
   font-family: "Open Sans", sans-serif;
   text-align: center;
   font-size: 120%;
+  border-radius: 25px;
 
 img {
   display: block;
