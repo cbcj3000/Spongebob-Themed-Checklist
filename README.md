@@ -10,7 +10,6 @@ HTML / CSS / JavaScript
 
 **Lessons Learned**
 - How to build a simple web application with an interactive front-end
-- DOM manipulation for dynamic task updates
 - Using JavaScript event listeners for user interactions
 - Integrating audio notifications into web apps
 
