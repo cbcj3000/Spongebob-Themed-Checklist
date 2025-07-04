@@ -20,7 +20,7 @@ HTML / CSS / JavaScript
 
 Setup Instructions
 - Clone this repo:
-git clone https://github.com/cbcj3000/Spongebob-Themed-Checklist.git
+```git clone https://github.com/cbcj3000/Spongebob-Themed-Checklist.git```
 - Open index.html in your browser
   
 **OR**
